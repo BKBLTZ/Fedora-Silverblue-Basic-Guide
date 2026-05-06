@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://fedoraproject.org/assets/images/fedora-workmark-white.png" alt="Fedora" width="180"/>
-
-# 🪨 Panduan Fedora Linux & Silverblue
+🪨 Panduan Fedora Linux & Silverblue
 
 **Dokumentasi lengkap untuk pengguna Linux menengah — dari instalasi hingga workflow modern.**
 
